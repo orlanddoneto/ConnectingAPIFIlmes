@@ -3,7 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-src/services/Requisicao.java
+#Informacoes API
+src/service/Requisicao.java
 
 ### Eclipse ###
 .apt_generated
